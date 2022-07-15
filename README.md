@@ -14,3 +14,8 @@ Numpy
 OpenCV (cv2)
 Sklearn
 ``` 
+
+### Dataset
+```
+Dokumentasi Pribadi Peneliti
+``` 
